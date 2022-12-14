@@ -5,6 +5,7 @@
 <code>
 npm install</code><br>
 créer le fichier .env à partir du fichier .env.sample<br>
+modifier les infos de votre connexion base de données dans le fichier backend/config/db.js<br>
 <code>npm start</code>
   
 
