@@ -1,11 +1,12 @@
 Pour lancer le projet
 
 -- dans le dossier backend --
-npm install
-créer le fichier .env à partir du fichier .env.sample
+<br>
+npm install<br>
+créer le fichier .env à partir du fichier .env.sample<br>
 npm start
 
 
--- dans le dossier frontend --
-npm install
+-- dans le dossier frontend --<br>
+npm install<br>
 npm start
